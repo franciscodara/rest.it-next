@@ -90,11 +90,11 @@
     transition: 0.2s;
 }
 
-.challengeBoxActive footer button.challengeFailedButtom {
+.challengeBoxActive footer button.challengeFailedButton {
     background: var(--red);
 }
 
-.challengeBoxActive footer button.challengeSucceedButtom {
+.challengeBoxActive footer button.challengeSucceedButton {
     background: var(--green);
 }
 
